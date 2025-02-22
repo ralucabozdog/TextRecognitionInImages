@@ -1,0 +1,198 @@
+
+
+Best match: a with percentage 92
+
+Best match: b with percentage 97
+ 
+Best match: c with percentage 94
+ 
+Best match: d with percentage 97
+ 
+Best match: e with percentage 93
+ 
+Best match: g with percentage 92
+ 
+Best match: f with percentage 93
+
+Best match: h with percentage 97
+ 
+Best match: i with percentage 91
+
+Best match: j with percentage 92
+ 
+Best match: k with percentage 97
+ 
+Best match: l with percentage 98
+ 
+Best match: m with percentage 95
+
+Best match: n with percentage 95
+ 
+Best match: o with percentage 95
+
+
+Best match: p with percentage 94
+ 
+Best match: q with percentage 95
+
+Best match: r with percentage 97
+ 
+Best match: s with percentage 91
+ 
+Best match: t with percentage 96
+
+Best match: u with percentage 98
+
+Best match: v with percentage 96
+
+Best match: w with percentage 95
+
+Best match: x with percentage 94
+
+Best match: y with percentage 96
+
+Best match: z with percentage 93
+
+Best match: A with percentage 96
+
+Best match: B with percentage 96
+
+
+Best match: C with percentage 95
+ 
+Best match: D with percentage 96
+ 
+Best match: E with percentage 95
+ 
+Best match: F with percentage 97
+ 
+Best match: G with percentage 96
+ 
+Best match: H with percentage 96
+ 
+Best match: I with percentage 99
+ 
+Best match: J with percentage 92
+ 
+Best match: K with percentage 95
+ 
+Best match: L with percentage 98
+ 
+Best match: M with percentage 94
+
+
+Best match: N with percentage 94
+ 
+Best match: O with percentage 95
+ 
+Best match: P with percentage 96
+ 
+Best match: Q with percentage 95
+ 
+Best match: R with percentage 93
+ 
+Best match: S with percentage 94
+ 
+Best match: T with percentage 96
+ 
+Best match: U with percentage 97
+
+Best match: V with percentage 96
+
+Best match: W with percentage 96
+
+
+Best match: X with percentage 97
+ 
+Best match: Y with percentage 98
+ 
+Best match: Z with percentage 97
+ 
+Best match: 0 with percentage 94
+ 
+Best match: 1 with percentage 93
+ 
+Best match: 2 with percentage 95
+ 
+Best match: 3 with percentage 94
+ 
+Best match: 4 with percentage 98
+ 
+Best match: 5 with percentage 95
+ 
+Best match: 6 with percentage 96
+ 
+Best match: 7 with percentage 95
+ 
+Best match: 8 with percentage 94
+ 
+Best match: 9 with percentage 93
+
+
+Best match: , with percentage 94
+ 
+Best match: < with percentage 96
+ 
+Best match: . with percentage 96
+ 
+Best match: > with percentage 96
+ 
+Best match: / with percentage 96
+ 
+Best match: ? with percentage 96
+ 
+Best match: ; with percentage 94
+ 
+Best match: : with percentage 98
+ 
+Best match: , with percentage 89
+ 
+Best match: , with percentage 88
+
+Best match: , with percentage 90
+ 
+Best match: [ with percentage 100
+ 
+Best match: { with percentage 95
+ 
+Best match: ] with percentage 100
+ 
+Best match: } with percentage 96
+ 
+Best match: \ with percentage 96
+ 
+Best match: - with percentage 100
+ 
+Best match: = with percentage 100
+
+
+Best match: + with percentage 95
+ 
+Best match: - with percentage 100
+
+
+Best match: - with percentage 100
+
+Best match: ) with percentage 96
+ 
+Best match: ( with percentage 96
+ 
+Best match: * with percentage 92
+ 
+Best match: & with percentage 95
+ 
+Best match: ^ with percentage 95
+ 
+Best match: % with percentage 95
+ 
+Best match: $ with percentage 92
+ 
+Best match: # with percentage 96
+ 
+Best match: @ with percentage 94
+ 
+Best match: ! with percentage 95
+ 
+Best match: ` with percentage 93
+ 
+Best match: ~ with percentage 94

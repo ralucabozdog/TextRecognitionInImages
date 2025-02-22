@@ -1,0 +1,29 @@
+
+
+Best match: w with percentage 79
+
+Best match: o with percentage 93
+
+Best match: w with percentage 78
+
+Best match: , with percentage 90
+ 
+Best match: c with percentage 92
+
+Best match: h with percentage 85
+
+Best match: i with percentage 85
+
+Best match: a with percentage 83
+
+Best match: r with percentage 82
+ 
+Best match: m with percentage 79
+
+Best match: e with percentage 90
+
+Best match: r with percentage 83
+
+Best match: g with percentage 79
+
+Best match: e with percentage 90
